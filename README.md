@@ -1,3 +1,5 @@
+![teste](https://media.licdn.com/dms/image/D4D16AQFqNwylv1aEew/profile-displaybackgroundimage-shrink_350_1400/0/1674185591202?e=1716422400&v=beta&t=_CPNbi350HSo3pPzN83T2hFmXDjq690Ws1cg8wRI51E)
+
 ## Desenvolvedor WEB e Mobile
 
 ### Tecnologias
